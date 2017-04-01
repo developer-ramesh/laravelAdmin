@@ -35,6 +35,8 @@
 
     {!! Form::close() !!}
 
+    <div>
+      pp
+    </div>
+
 @endsection
-
-
